@@ -115,3 +115,21 @@ a,h1,p{
 .video{
 	width:60%;
 }
+.contactinformation{
+	margin-top: 2%;
+	margin-left:1%;
+}
+
+.map iframe{
+	display:block;
+	margin:20px auto;
+
+}
+
+.contactinformation a img{
+	width:40px;
+	height: 40px;
+}
+.form{
+	margin-left: 5px;
+}
