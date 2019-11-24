@@ -1,0 +1,72 @@
+.title {
+	padding-bottom-bottom:200px;
+	padding-top:200px;
+	background-image:url('../img/titlebackground.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-bottom: 40px;
+	background-attachment: fixed;
+}
+.title h1{
+	font-size: 50px;
+	text-align: center;
+	color:white;
+} 
+
+.title p{
+	font-size: 20px;
+	color:white;
+	text-align: center;
+}
+
+.buttons a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif; 
+	
+	color: white; 
+	font-size: 35px;  
+	margin: 5%;
+	margin-top: 0px;
+	
+	text-align:center;
+	padding-left: 2%;
+	padding-right: 2%
+
+} 
+
+.buttons{
+	background-color:#060047; 
+
+
+}
+
+.buttons a:hover{
+	color: cyan;
+}
+
+.buttons a:visited{
+	color: green;
+
+}
+
+.buttons {
+	align-self: center;
+	text-align: center; 
+
+}
+
+.text{
+	float:left;
+	max-width:40%;
+	margin-left: 10%;
+} 
+
+.picture img{
+
+	max-width: 40%;
+	float:left;
+	margin-right:10%;
+}
+
+
+
