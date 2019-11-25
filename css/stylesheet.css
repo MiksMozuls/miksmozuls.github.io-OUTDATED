@@ -100,8 +100,8 @@ a,h1,p{
 
 }
 .photos a img { 
-	width: 30%;
-	height: 30%; 
+	width: 200px;
+	height: 200px; 
 	margin: 1.3%;
 } 
 
