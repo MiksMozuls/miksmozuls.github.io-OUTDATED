@@ -3,7 +3,8 @@
 	padding-top:200px;
 	background-image:url('../img/titlebackground.jpg');
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:cover; 
+	width:100%;
 	margin-bottom: 40px;
 	background-attachment: fixed;
 }
@@ -58,16 +59,11 @@ a,h1,p{
 }
 
 .text{
-	float:left;
-	width:40%;
-	margin-left: 10%;
-	margin-right:2%;
+
+
 } 
 
 .picture img{
-
-	max-width: 40%;
-	float:left;
 	margin-right:8%;
 }
 
