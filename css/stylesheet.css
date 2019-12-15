@@ -129,3 +129,17 @@ a,h1,p{
 .form{
 	margin-left: 5px;
 } 
+
+.top, .top:focus{
+    z-index: 10000;
+    position: fixed;
+    right: 3%;
+    bottom: 3%;
+    font-size: 1vw!important;
+    padding: 0.5vw 0.5vw!important;
+    background-color: rgba(10, 10, 10, 0.6);
+
+}
+.top:hover, .top:active{
+    background-color: rgba(23, 23, 23, 0.8);
+}
