@@ -129,9 +129,3 @@ a,h1,p{
 .form{
 	margin-left: 5px;
 } 
-
-@media only screen and (max-width: 400px){
-	body{
-		background-color: red;
-	}
-}
